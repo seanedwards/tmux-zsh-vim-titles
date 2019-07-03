@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 # Default variables for tmux-zsh-vim-titles
 
 #############
